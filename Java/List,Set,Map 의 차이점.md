@@ -26,4 +26,4 @@
 - Map: 키-값 쌍을 저장하며, 각 키는 고유하며 값에 접근하는 데 사용하는 자료 구조.
 
 
-![img_2.png](img_2.png)
+![Additional Image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Ftdpf5%2Fbtq127JQCI8%2FLSdj32IFJg2bsAinWk5bBK%2Fimg.png)
