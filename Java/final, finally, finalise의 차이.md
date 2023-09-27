@@ -50,7 +50,9 @@ class MyClass {
 // finalize 메서드 오버라이드
 protected void finalize() {
 // 객체의 정리 작업 수행
-// 주의: 이제는 권장되지 않는 방법입니다.
+// 주의: 이제는 권장되지 않는 방법
 }
 }
 ```
+
+finalize 메서드의 문제 참고 : https://www.itworld.co.kr/news/224419
