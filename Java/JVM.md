@@ -32,7 +32,7 @@
 ### 가비지 컬렉터(Garbage Collector)
 - 가비지 컬렉터는 힙 메모리 영역에서 더 이상 참조되지 않는 객체를 식별하고 제거하여 메모리 누수를 방지하는 역할을 한다.
 
-### 4. 런타임 데이터 영역(Runtime Data Area)
+### 런타임 데이터 영역(Runtime Data Area)
 ![AdditionalImage](https://tecoble.techcourse.co.kr/static/a0b18cc999920474a1852901e1e46ebf/6f641/2021-08-09-jvm-runtime-data-area-structure.png)
 
 - 런타임 데이터 영역은 실제 클래스 파일이 적재되는 곳으로 자바 프로그램 실행을 위한 데이터와 명령어를 저장하기 위해 할당받는 메모리 공간이다. 
